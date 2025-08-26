@@ -75,6 +75,3 @@ C programlama diliyle yazılmış, temel ATM işlemlerini gerçekleştiren minim
 - Henüz belirtilmemiş — öyle takılırsan “Özgür gitsin, özgür kalsın” diyebilirsin 😉
 
 ---
-
-Bu README, seni repoyu anlamaya götüren bir köprü gibi – sade, direkt ve hızlı. Bir espriyle kapatacak olursam: “Ne demiş atalar — kod yaz, README yaz, uzaya gönder!”  Daha ileri görüşlü, daha derin şeyler istersen, ben buradayım.
-::contentReference[oaicite:0]{index=0}
